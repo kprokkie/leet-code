@@ -32,6 +32,26 @@ var reverseList = function(head) {
 
 };
 
+// 2
+var reverseList2 = function(head) {
+  if (!head) {
+    return null;
+  }
+
+  let previousNode = null;
+  let currentNode = head;
+
+  while (currentNode) {
+    let tempNode = currentNode.next;
+    currentNode.next = previousNode;
+    previousNode = currentNode;
+    currentNode = tempNode; 
+  }
+
+  head = previousNode;
+  return head;
+};
+
 const head = {
   val: 1, next: {
     val: 2, next: {
