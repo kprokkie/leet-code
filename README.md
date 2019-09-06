@@ -11,3 +11,5 @@
 > [LC122](https://repl.it/@kprokkie/LC122-Best-Time-to-Buy-and-Sell-Stock-II) Best Time to Buy and Sell Stock II
 
 > [LC242](https://repl.it/@kprokkie/242-Valid-Anagram) Valid Anagram
+
+> [LC217](https://repl.it/@kprokkie/217-Contains-Duplicate) Contains Duplicate
