@@ -9,3 +9,5 @@
 > [LC237](https://repl.it/@kprokkie/LC237-Delete-Node-in-a-Linked-List) Delete Node in a Linked List
 
 > [LC122](https://repl.it/@kprokkie/LC122-Best-Time-to-Buy-and-Sell-Stock-II) Best Time to Buy and Sell Stock II
+
+> [LC242](https://repl.it/@kprokkie/242-Valid-Anagram) Valid Anagram
