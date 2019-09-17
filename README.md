@@ -13,3 +13,5 @@
 > [LC242](https://repl.it/@kprokkie/242-Valid-Anagram) Valid Anagram
 
 > [LC217](https://repl.it/@kprokkie/217-Contains-Duplicate) Contains Duplicate
+
+> [LC387](https://repl.it/@kprokkie/LC387-First-Unique-Character-in-a-String) First Unique Character in a String
