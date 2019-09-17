@@ -17,3 +17,5 @@
 > [LC387](https://repl.it/@kprokkie/LC387-First-Unique-Character-in-a-String) First Unique Character in a String
 
 > [LC268](https://repl.it/@kprokkie/LC268-Missing-Number) Missing Number
+
+> [LC121](https://repl.it/@kprokkie/LC121-Best-Time-to-Buy-and-Sell-Stock) Best Time to Buy and Sell Stock
