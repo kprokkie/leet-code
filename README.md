@@ -19,3 +19,5 @@
 > [LC268](https://repl.it/@kprokkie/LC268-Missing-Number) Missing Number
 
 > [LC121](https://repl.it/@kprokkie/LC121-Best-Time-to-Buy-and-Sell-Stock) Best Time to Buy and Sell Stock
+
+> [LC21](https://repl.it/@kprokkie/LC21-Merge-Two-Sorted-Lists) Merge Two Sorted Lists
