@@ -1,5 +1,6 @@
 # Leet Code Solutions
 
+
 > LC1: Two Sum
 
 > [LC169](https://repl.it/@kprokkie/LC169-Majority-Element) Majority Element
@@ -21,3 +22,5 @@
 > [LC121](https://repl.it/@kprokkie/LC121-Best-Time-to-Buy-and-Sell-Stock) Best Time to Buy and Sell Stock
 
 > [LC21](https://repl.it/@kprokkie/LC21-Merge-Two-Sorted-Lists) Merge Two Sorted Lists
+
+> [LC202](https://repl.it/@kprokkie/LC202-Happy-Number) Happy Number
