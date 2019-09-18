@@ -50,3 +50,5 @@
 > [LC202](https://repl.it/@kprokkie/LC202-Happy-Number) Happy Number
 
 > [LC118](https://repl.it/@kprokkie/LC118-Pascals-Triangle) Pascals Triangle
+
+> [LC70](https://repl.it/@kprokkie/LC70-Climbing-Stairs) Climbing Stairs
