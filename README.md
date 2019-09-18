@@ -41,10 +41,12 @@
 
 > [LC268](https://repl.it/@kprokkie/LC268-Missing-Number) Missing Number
 
-> [LC350]Intersection of Two Arrays II ```PENDING```
+> [LC350]() Intersection of Two Arrays II ```PENDING```
 
 > [LC121](https://repl.it/@kprokkie/LC121-Best-Time-to-Buy-and-Sell-Stock) Best Time to Buy and Sell Stock
 
 > [LC21](https://repl.it/@kprokkie/LC21-Merge-Two-Sorted-Lists) Merge Two Sorted Lists
 
 > [LC202](https://repl.it/@kprokkie/LC202-Happy-Number) Happy Number
+
+> [LC118](https://repl.it/@kprokkie/LC118-Pascals-Triangle) Pascals Triangle
