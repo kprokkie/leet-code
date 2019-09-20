@@ -3,34 +3,38 @@
  * @param {string} t
  * @return {boolean}
  */
-var isAnagram = function(s, t) {
-  if (s.length === t.length) {
-    let sHash = {};
-    let tHash = {};
+var isAnagram = function (s, t) {
+  if (s.length !== t.length) {
+    return false;
+  }
+  
+  let sHash = {};
+  let tHash = {};
 
-    let sArr = [...s];
-    let tArr = [...t];
+  // let sArr = [...s];
+  // let tArr = [...t];
 
-    // TC: O(n)
-    for (let i = 0; i < s.length; i++) {
-      if (!sHash[sArr[i]])
-        sHash[sArr[i]] = 1;
-      else
-        sHash[sArr[i]] += 1;
+  // TC: O(n)
+  for (let i = 0; i < s.length; i++) {
+    sHash[s[i]] = ++sHash[s[i]] || 1;
+    tHash[t[i]] = ++tHash[t[i]] || 1;
+    // if (!sHash[sArr[i]])
+    //   sHash[sArr[i]] = 1;
+    // else
+    //   sHash[sArr[i]] += 1;
 
-      if (!tHash[tArr[i]])
-        tHash[tArr[i]] = 1;
-      else
-        tHash[tArr[i]] += 1;
-    }
+    // if (!tHash[tArr[i]])
+    //   tHash[tArr[i]] = 1;
+    // else
+    //   tHash[tArr[i]] += 1;
+  }
 
   // TC: O(m)
-    for (let key in sHash) {
-      if (sHash[key] !== tHash[key])
-        return false;
-    }
-    return true;
-  } else return false;
+  for (let key in sHash) {
+    if (sHash[key] !== tHash[key])
+      return false;
+  }
+  return true;
 };
 
 // Runtime: 76 ms, faster than 56.94% of JavaScript online submissions for Valid Anagram.
