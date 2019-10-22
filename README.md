@@ -9,6 +9,8 @@
 ## Want some extra practice? 
 ```Here are a list of some of the top interview questions focusing on data structures and algorithms:```
 
+> [LC42](https://LC42-Trapping-Rain-Water.kprokkie.repl.run) Trapping Rain Water
+
 > [LC344](https://repl.it/@kprokkie/LC344-Reverse-String) Reverse String   
 
 > [LC412](https://repl.it/@kprokkie/LC412-Fizz-Buzz) Fizz Buzz    
