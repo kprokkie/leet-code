@@ -29,7 +29,7 @@ var isSubtree = function (s, t) {
 };
 
 var isEqualTree = function (s, t) {
-    if (!s && !t) return true;
+    if (!s && !t) return true; 
 
     if (!s || !t) return false;
     if (s.val !== t.val) return false;
